@@ -1,0 +1,18 @@
+int 7 -4 0 4485: numeros inteiros
+float 4.5 0.445 -16.009 numeros quebrados
+bool True False
+str 'ola' '4.5' '562' todas as palavras devem estar dentro de aspas, vira objeto
+print ('a soma vale',s)
+print ('a soma vale {}'.format(s))
+ ORDEM DE PRECEDENCIA:
+ 1()
+ 2**
+ 3* / // ÷
+ 4 + -
+EX:
+5+3*2= 11
+3*5+4**2=31
+3*(5+4)**2=
+// divisao inteira
+/ divisao
+** potencia
